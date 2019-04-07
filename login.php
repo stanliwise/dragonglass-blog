@@ -28,7 +28,6 @@
                     
                     <ul class="menu-wrapper d-flex flex-column">
                         <a href="/Authentication/login.php"><li class="menu-item text-center">Login</li></a>
-                        <a href="#"><li class="menu-item text-center">Sign Up</li> </a>
                         
 
                     </ul>
