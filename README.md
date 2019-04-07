@@ -1,5 +1,8 @@
 # Ziki
 
+## Contributing
+Use **port 8080** when you start the local server.
+
 Each team is to come up with 2 different themes for the site. The teams will have to collaborate to create the following:
   - The blogging experience
   - Authentication (which should only be possible via google or via facebook, there is no native auth)
