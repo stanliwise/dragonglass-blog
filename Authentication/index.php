@@ -1,1 +1,1 @@
-<?php header('location: /hng'); ?>
+<?php header('refresh:0;url=../light-timeline.php') ?>
