@@ -1,3 +1,5 @@
+<?php header('location: auth/index.php'); //Not really clear on why there are two homepages :/ ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
