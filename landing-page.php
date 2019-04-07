@@ -21,7 +21,7 @@
 
 
             <div class="row d-flex flex-column">
-                <h5 class="landing-page-greeting">Hello Dear,</h5>
+                <h5 class="landing-page-greeting">Hello Mark Essien</h5>
                 <div class="row d-flex flex-row">
                     <h1 class="col-md-8 landing-page-main-header">Welcome to The Platform </h1>
                     <button class="landing-page-btn align-self-end"><a href="/Authentication/login.php">Join Now</a></button>
