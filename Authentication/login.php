@@ -1,6 +1,6 @@
 <?php
-require '/auth/facebookinit.php';
-require '/auth/googleinit.php';
+require 'auth/facebookinit.php';
+require 'auth/googleinit.php';
 
 if(isset($_SESSION['access_token'])){
     ?>
