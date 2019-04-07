@@ -1,22 +1,5 @@
-<?php header('location: Authentication/login.php'); exit; ?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-
-   <a href="/Authentication/login.php">Login/Signup</a>
-
-</body>
-</html>
-=======
 <?php
-
-echo "It Works!";
+include 'landing-page.php';
 ?>
+
 
