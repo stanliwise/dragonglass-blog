@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-sm-9">
     <div class="row">
-      <img class="img-responsive profile-pic" src="images/fiverr.jpg" alt="author picture">
+      <img class="img-responsive profile-pic" src="hng/images/fiverr.jpg" alt="author picture">
       <div class="row text-center">
         <h3>TONI ATUNRASE</h3>
         <h4 class="occupation">Web/Software Developer</h4>

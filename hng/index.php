@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php include 'includes/head.php'; ?>
-	<link rel="stylesheet" href="style.css" type="text/css">
+	<link rel="stylesheet" href="hng/style.css" type="text/css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <body>
 	<div class="parent">
@@ -43,7 +43,7 @@
 								</div>
 								<div class="row post">
 									<div class="col-sm-2">
-										<img class="img-responsive profile-pic" src="images/fiverr.jpg" alt="author picture">
+										<img class="img-responsive profile-pic" src="hng/images/fiverr.jpg" alt="author picture">
 									</div>
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
@@ -60,7 +60,7 @@
 
 								<div class="row post">
 									<div class="col-sm-2">
-										<img class="img-responsive profile-pic" src="images/fiverr.jpg" alt="author picture">
+										<img class="img-responsive profile-pic" src="hng/images/fiverr.jpg" alt="author picture">
 									</div>
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
@@ -77,7 +77,7 @@
 
 								<div class="row post">
 									<div class="col-sm-2">
-										<img class="img-responsive profile-pic" src="images/fiverr.jpg" alt="author picture">
+										<img class="img-responsive profile-pic" src="hng/images/fiverr.jpg" alt="author picture">
 									</div>
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
@@ -94,7 +94,7 @@
 
 								<div class="row post">
 									<div class="col-sm-2">
-										<img class="img-responsive profile-pic" src="images/fiverr.jpg" alt="author picture">
+										<img class="img-responsive profile-pic" src="hng/images/fiverr.jpg" alt="author picture">
 									</div>
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
@@ -111,7 +111,7 @@
 
 								<div class="row post">
 									<div class="col-sm-2">
-										<img class="img-responsive profile-pic" src="images/fiverr.jpg" alt="author picture">
+										<img class="img-responsive profile-pic" src="hng/images/fiverr.jpg" alt="author picture">
 									</div>
 									<div class="col-sm-10">
 										<h6>April 10th, 2019</h6>
@@ -171,6 +171,6 @@
     </div>
   </div>
 </div>
-	<script src="app.js"></script>
+	<script src="hng/app.js"></script>
 </body>
 </html>
