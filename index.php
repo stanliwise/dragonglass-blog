@@ -1,3 +1,4 @@
+<?php header('location: Authentication/login.php'); exit; ?>
 
 <!DOCTYPE html>
 <html lang="en">
