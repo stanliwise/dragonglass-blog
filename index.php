@@ -1,5 +1,5 @@
 <?php
-include 'landing-page.php';
+include 'light-timeline.php';
 ?>
 
 
