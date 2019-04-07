@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<?php include'includes/head.php'; ?>
+	<?php include(__DIR__.'/includes/head.php'); ?>
 	<head><link href="style_welcome.css" rel="stylesheet" type="text/css"> </head>
 <body>
 <div class="parent">
