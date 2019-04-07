@@ -16,6 +16,7 @@
         <li><a class="side_nav" href="<?= myUrl('draft.php'); ?>">Drafts</a></li>
         <li><a class="side_nav" href="<?= myUrl('journal.php'); ?>">My Journal</a></li>
         <li><a class="side_nav" href="<?= myUrl('journal.php'); ?>">Other Journals</a></li>
+        <li><a class="side_nav" href="" data-toggle="modal" data-target="#profile">Profile</a></li>
       </ul>
     </div>
   </div>
