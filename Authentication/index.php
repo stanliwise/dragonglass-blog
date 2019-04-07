@@ -1,4 +1,4 @@
-<?php header('location: auth/index.php'); //Not really clear on why there are two homepages :/ ?>
+<?php header('location: /Authentication/auth/index.php'); //Not really clear on why there are two homepages :/ ?>
 
 <!DOCTYPE html>
 <html lang="en">

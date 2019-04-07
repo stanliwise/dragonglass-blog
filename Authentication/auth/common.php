@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/hng/ziki/Authentication/auth/');
+define('BASE_URL', 'http://localhost:8080/Authentication/auth/');
 
 function myUrl($path = '')
 {
