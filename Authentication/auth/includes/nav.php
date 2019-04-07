@@ -12,10 +12,10 @@
     <hr>
     <div class="row">
       <ul class="side_nav">
-        <li><a class="side_nav" href="#home">Home</a></li>
-        <li><a class="side_nav" href="#news">Drafts</a></li>
-        <li><a class="side_nav" href="#contact">My Journal</a></li>
-        <li><a class="side_nav" href="#about">Other Journals</a></li>
+        <li><a class="side_nav" href="<?= myUrl(''); ?>">Home</a></li>
+        <li><a class="side_nav" href="<?= myUrl('draft.php'); ?>">Drafts</a></li>
+        <li><a class="side_nav" href="<?= myUrl('journal.php'); ?>">My Journal</a></li>
+        <li><a class="side_nav" href="<?= myUrl('journal.php'); ?>">Other Journals</a></li>
       </ul>
     </div>
   </div>
